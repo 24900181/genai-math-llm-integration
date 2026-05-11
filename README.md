@@ -20,7 +20,8 @@ and the system calculates its volume by invoking a Python function using the fun
 ```
 import openai
 import math
-
+print("Name : NETHRA.K")
+print("Reg No: 212224230184\n")
 # Define the function to calculate the volume of a cylinder
 def calculate_cylinder_volume(radius, height):
     return math.pi * radius ** 2 * height
@@ -56,13 +57,15 @@ if __name__ == "__main__":
     main()
 
 
+
 ```
 
 
 
 ### OUTPUT:
 
-<img width="1328" height="105" alt="image" src="https://github.com/user-attachments/assets/fd5bc93a-4d0a-4761-a1d1-155c47962b04" />
+<img width="1231" height="162" alt="image" src="https://github.com/user-attachments/assets/6a2c2365-d184-4cf4-a631-e3d43c771939" />
+
 
 
 ### RESULT:
